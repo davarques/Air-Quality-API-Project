@@ -1,17 +1,16 @@
-# Air Quality Analysis 
-## for Business Operation Offices
+# Air Quality Analysis for Business Operation Offices
 
-## Context
+### Context
 Tech companies often outsource aspects of their workforce (sales, support, operations, etc.) to external firms known as vendor partners to scale up operations.
 
-## Current Scenario
+### Current Scenario
 We are operating in two Asian locations (India 🇮🇳 and the Philippines 🇵🇭).
 
 ## Problem Statement
 - Investigate the current air quality ♻️ of our operating locations.
 - Explore potential new locations 🏢 with similar costs and better air quality.
 
-## Data Sources Used
+### Data Sources Used
 1. **Air Quality API**
    - Source: [RapidAPI](https://rapidapi.com/weatherbit/api/air-quality)
    - Parameters: City name, Longitude, Latitude
@@ -21,7 +20,7 @@ We are operating in two Asian locations (India 🇮🇳 and the Philippines 🇵
    - [World Cities Database](https://www.kaggle.com/datasets/max-mind/world-cities-database?select=worldcitiespop.csv)
    - [Global Country Information 2023](https://zenodo.org/records/8165229)
 
-## Key Performance Indicators (KPIs) / Metrics
+### Key Performance Indicators (KPIs) / Metrics
 - Minimum Wage (in USD $)
 - Unemployment Rate (%)
 - Gross Primary Education Enrollment (%)
