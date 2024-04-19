@@ -44,10 +44,10 @@ This script allows you to analyze Air quality data for different locations, aidi
 
 #### Here's what you can do:
 
-1. **Analyze Current Air Quality**: Investigate the air quality of existing offices.
+1. **Analyze Air Quality**: Investigate the historic or current air quality of existing offices.
 2. **Explore New Locations**: Input city details to assess air quality for potential new offices.
 3. **Make Informed Decisions**: Utilize air quality insights to decide on office locations.
-4. **Country Insights**: Obtain key country metrics such as Minimum Wage (in USD $), Unemployment Rate (%), or Gross Primary Education Enrollment (%).
+4. **Country Insights**: Obtain key country metrics such as Minimum Wage, Unemployment or Education rate. 
 5. **Geographical Details**: Retrieve cities' longitude and latitude coordinates for air quality consultation.
 
 ## Conclusions and Insights 🎯
