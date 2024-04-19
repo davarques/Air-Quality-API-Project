@@ -38,7 +38,7 @@ We can discover new locations to open offices that offer better air quality than
 | **Kaggle Datasets** | [World Cities Database](https://www.kaggle.com/datasets/max-mind/world-cities-database) |
 |                  | [Global Country Information 2023](https://zenodo.org/records/8165229)    
 
-### Key Performance Indicators (KPIs) / Metrics 📊
+### KPIs / Metrics 📊
 - Air Quality
 - Minimum Wage (in USD $)
 - Unemployment Rate (%)
