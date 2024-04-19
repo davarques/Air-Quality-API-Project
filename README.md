@@ -44,12 +44,12 @@ We can discover new locations to open offices that offer better air quality than
 - Unemployment Rate (%)
 - Gross Primary Education Enrollment (%)
 
-## Conclusions and Insights
-### Hypothesis 1:
+## Conclusions and Insights 🎯
+#### Hypothesis 1:
 - Two-thirds of our current locations are unhealthy 😷, and one-third is dangerous ☠️ in terms of Air Quality.
 - If air quality is a crucial factor for our next location, exploring new places is worthwhile.
 
-### Hypothesis 2:
+#### Hypothesis 2:
 - Overall African countries 🌍 look like a good alternative 🔄 to explore, offering better air quality ♻️ while keeping costs 💰comparable to the Asian locations.
 - Potenatial good candidates are: Guinea-Bissau, Madagascar and Togo, Madagascar ⭐ being the favourite for highest % education compared to ther other two. 
 
