@@ -9,6 +9,18 @@ Deciding where to open a new office or where to move your operations can include
 
 However, with the environment worsening, factors like air quality and pollution are definitely good decision-making points to take into account when opening new offices or business locations.
 
+## Script / Usage 💻
+
+This script allows you to analyze Air Quality data for different locations, aiding decisions about office locations. 
+
+Here's what you can do:
+
+1. **Analyze Air Quality**: Investigate the historic or current air quality of existing offices.
+2. **Explore New Locations**: Input city details to assess air quality for potential new offices.
+3. **Make Informed Decisions**: Utilize air quality insights to decide on office locations.
+4. **Country Insights**: Obtain key country metrics such as Minimum Wage, Unemployment or Education rate. 
+5. **Geographical Details**: Retrieve cities' longitude and latitude coordinates for air quality consultation.
+
 ## Project Overview 📋
 
 In this study, we are assessing a specific scenario to simulate a study of deciding where to open a new office. The information we have for this case is:
@@ -38,17 +50,6 @@ We can discover new locations to open offices that offer better air quality than
 | **Kaggle Datasets** | [World Cities Database](https://www.kaggle.com/datasets/max-mind/world-cities-database) |
 |                  | [Global Country Information 2023](https://zenodo.org/records/8165229)    
 
-## Script / Usage 💻
-
-This script allows you to analyze Air quality data for different locations, aiding decisions about office locations. 
-
-#### Here's what you can do:
-
-1. **Analyze Air Quality**: Investigate the historic or current air quality of existing offices.
-2. **Explore New Locations**: Input city details to assess air quality for potential new offices.
-3. **Make Informed Decisions**: Utilize air quality insights to decide on office locations.
-4. **Country Insights**: Obtain key country metrics such as Minimum Wage, Unemployment or Education rate. 
-5. **Geographical Details**: Retrieve cities' longitude and latitude coordinates for air quality consultation.
 
 ## Conclusions and Insights 🎯
 #### Hypothesis 1:
