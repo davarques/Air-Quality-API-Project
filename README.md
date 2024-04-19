@@ -38,11 +38,17 @@ We can discover new locations to open offices that offer better air quality than
 | **Kaggle Datasets** | [World Cities Database](https://www.kaggle.com/datasets/max-mind/world-cities-database) |
 |                  | [Global Country Information 2023](https://zenodo.org/records/8165229)    
 
-### KPIs / Metrics 📊
-- Air Quality
-- Minimum Wage (in USD $)
-- Unemployment Rate (%)
-- Gross Primary Education Enrollment (%)
+## Script / Usage 💻
+
+This script allows you to analyze Air quality data for different locations, aiding decisions about office locations. 
+
+#### Here's what you can do:
+
+1. **Analyze Current Air Quality**: Investigate the air quality of existing offices.
+2. **Explore New Locations**: Input city details to assess air quality for potential new offices.
+3. **Make Informed Decisions**: Utilize air quality insights to decide on office locations.
+4. **Country Insights**: Obtain key country metrics such as Minimum Wage (in USD $), Unemployment Rate (%), or Gross Primary Education Enrollment (%).
+5. **Geographical Details**: Retrieve cities' longitude and latitude coordinates for air quality consultation.
 
 ## Conclusions and Insights 🎯
 #### Hypothesis 1:
