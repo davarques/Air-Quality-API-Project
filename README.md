@@ -35,8 +35,8 @@ We can discover new locations to open offices that offer better air quality than
 | Data Source     | Link                                                  |
 |-----------------|-------------------------------------------------------|
 | **Air Quality API** | Source: [RapidAPI](https://rapidapi.com/weatherbit/api/air-quality/details)                                           |                                          |
-| **Kaggle Datasets** | World Cities Database: [Source](https://www.kaggle.com/datasets/max-mind/world-cities-database) |
-|                  | Global Country Information 2023: [Source](https://zenodo.org/records/8165229)    
+| **Kaggle Datasets** | [World Cities Database](https://www.kaggle.com/datasets/max-mind/world-cities-database) |
+|                  | [Global Country Information 2023](https://zenodo.org/records/8165229)    
 
 ### Key Performance Indicators (KPIs) / Metrics 📊
 - Air Quality
