@@ -51,12 +51,23 @@ We can discover new locations to open offices that offer better air quality than
 |                  | [Global Country Information 2023](https://zenodo.org/records/8165229)    
 
 
-## Conclusions and Insights 🎯
-#### Hypothesis 1:
+## Findings and Insights 🎯
+
+#### Hypothesis 1 Conclsuions:
+
+Results of Air Quality of our current locations:
+
+![Screenshot 2024-04-20 at 14 23 50](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/cdab1b94-7291-468b-8ecb-0439416f3c57)
+
 - Two-thirds of our current locations are unhealthy 😷, and one-third is dangerous ☠️ in terms of Air Quality.
 - If air quality is a crucial factor for our next location, exploring new places is worthwhile.
 
-#### Hypothesis 2:
+#### Hypothesis 2 Conclusions:
+
+Scatter Plot of Top Potentail 11 locations found:
+
+![Screenshot 2024-04-20 at 14 25 54](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/61d58a9e-e04b-48c2-af68-b87f23657f9b)
+
 - Overall African countries 🌍 look like a good alternative 🔄 to explore, offering better air quality ♻️ while keeping costs 💰comparable to the Asian locations.
 - Potenatial good candidates are: Guinea-Bissau, Madagascar and Togo, Madagascar ⭐ being the favourite for highest % education compared to ther other two. 
 
