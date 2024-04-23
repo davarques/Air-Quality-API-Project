@@ -55,7 +55,7 @@ We can discover new locations to open offices that offer better air quality than
 
 #### Hypothesis 1 Conclsuions:
 
-Results of Air Quality of our current locations:
+We reviewed the Air quality status of the current locations we operate and the results of Air Quality are:
 
 ![Screenshot 2024-04-20 at 14 23 50](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/cdab1b94-7291-468b-8ecb-0439416f3c57)
 
@@ -64,7 +64,18 @@ Results of Air Quality of our current locations:
 
 #### Hypothesis 2 Conclusions:
 
-Scatter Plot of Top Potentail 11 locations found:
+1) First we assesed a sample of 141 countries, sorting Minimum wage & Unemployment from (Low to High) and Education 
+(High to Low) to identify potential hotspots (in red) and this is the result:
+
+![image](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/9f7f0281-927a-467a-81d7-9c8347d54be3)
+
+2) Secondly we reduced that sample focusing in the followinf filters:
+
+- Minimum wage($) [0-2]
+- Unemployment rate (%) [0-5]
+- Gross primary education enrollment (%) > 110
+
+  We identified a sample of 11 potential locations and created a Scatter Plot to visualize the data:
 
 ![Screenshot 2024-04-20 at 14 25 54](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/61d58a9e-e04b-48c2-af68-b87f23657f9b)
 
