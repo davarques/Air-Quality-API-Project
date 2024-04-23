@@ -79,6 +79,10 @@ We reviewed the Air quality status of the current locations we operate and the r
 
 ![Screenshot 2024-04-20 at 14 25 54](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/61d58a9e-e04b-48c2-af68-b87f23657f9b)
 
+3) Finally we ran the Air quality API for the four finalist locations and got the following results:
+
+![Screenshot 2024-04-23 at 13 19 51](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/f0a430bf-e02f-4960-aafa-7d2f9f5b0fc0)
+
 - Overall African countries 🌍 look like a good alternative 🔄 to explore, offering better air quality ♻️ while keeping costs 💰comparable to the Asian locations.
 - Potenatial good candidates are: Guinea-Bissau, Madagascar and Togo, Madagascar ⭐ being the favourite for highest % education compared to ther other two. 
 
