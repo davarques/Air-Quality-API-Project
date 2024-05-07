@@ -89,5 +89,3 @@ We reviewed the Air quality status of the current locations we operate and the r
 ## Project Limitations ⚠️
 - Air quality and labor costs (minimum wage, unemployment rate, and education) are not the only factors to consider when deciding new locations.
 - This study is not definitive or final. Other factors, such as political stability, conflicts, or resources, could significantly influence the decision-making process when exploring new locations in Africa.
-
-Thanks for reading 🙂
