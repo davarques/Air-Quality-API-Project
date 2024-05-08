@@ -53,21 +53,22 @@ We can discover new locations to open offices that offer better air quality than
 
 ## Findings and Insights 🎯
 
-#### Hypothesis 1 Conclsuions:
+#### Hypothesis 1:
 
 We reviewed the Air quality status of the current locations we operate and the results of Air Quality are:
 
 ![Screenshot 2024-04-20 at 14 23 50](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/cdab1b94-7291-468b-8ecb-0439416f3c57)
 
-- Two-thirds of our current locations are unhealthy 😷, and one-third is dangerous ☠️ in terms of Air Quality.
-- If air quality is a crucial factor for our next location, exploring new places is worthwhile.
+---
 
-#### Hypothesis 2 Conclusions:
+#### Hypothesis 2:
 
 1) First we assesed a sample of 141 countries, sorting Minimum wage & Unemployment from (Low to High) and Education 
 (High to Low) to identify potential hotspots (in red) and this is the result:
 
 ![image](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/9f7f0281-927a-467a-81d7-9c8347d54be3)
+
+---
 
 2) Secondly we reduced that sample focusing in the followinf filters:
 
@@ -79,13 +80,23 @@ We reviewed the Air quality status of the current locations we operate and the r
 
 ![Screenshot 2024-04-20 at 14 25 54](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/61d58a9e-e04b-48c2-af68-b87f23657f9b)
 
+---
+
 3) Finally we ran the Air quality API for the four finalist locations and got the following results:
 
 ![Screenshot 2024-04-23 at 13 19 51](https://github.com/davarques/Air-Quality-Analysis/assets/160759223/f0a430bf-e02f-4960-aafa-7d2f9f5b0fc0)
 
+## Conclusions 💡
+
+- Two-thirds of our current locations are unhealthy 😷, and one-third is dangerous ☠️ in terms of Air Quality.
+  
+- If air quality is a crucial factor for our next location, exploring new places is worthwhile.
+  
 - Overall African countries 🌍 look like a good alternative 🔄 to explore, offering better air quality ♻️ while keeping costs 💰comparable to the Asian locations.
+  
 - Potenatial good candidates are: Guinea-Bissau, Madagascar and Togo, Madagascar ⭐ being the favourite for highest % education compared to ther other two. 
 
 ## Project Limitations ⚠️
 - Air quality and labor costs (minimum wage, unemployment rate, and education) are not the only factors to consider when deciding new locations.
+  
 - This study is not definitive or final. Other factors, such as political stability, conflicts, or resources, could significantly influence the decision-making process when exploring new locations in Africa.
