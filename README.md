@@ -1,5 +1,6 @@
 # Air Quality Assessment for Business Locations
-[![Alt text](https://www.epa.gov/sites/default/files/styles/medium/public/2021-05/aqaw_2021_0.png?itok=dMP6C0bR)](https://www.epa.gov/sites/default/files/styles/medium/public/2021-05/aqaw_2021_0.png?itok=dMP6C0bR)
+
+<img src="https://www.epa.gov/sites/default/files/styles/medium/public/2021-05/aqaw_2021_0.png?itok=dMP6C0bR" alt="Machine Learning" width="800">
 
 ## Context ♻️🏢
 
